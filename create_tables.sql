@@ -1,4 +1,3 @@
-USE stock_market_db;
 
 -- 创建 users 表
 CREATE TABLE users (
